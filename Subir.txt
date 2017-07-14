@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Alizdog/PussyWagon.git
+git remote add origin git@github.com:Alizdog/PussyWagon.git
+git push -u origin master
